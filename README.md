@@ -1,69 +1,48 @@
-<div align="center">
+# About Me:
+I’m currently working on<br>Junior-level full-stack projects, improving existing applications, fixing bugs, and building features under real-world constraints.<br><br>👯 I’m looking to collaborate on<br>Entry-level and open-source projects where I can learn from experienced developers, follow best practices, and contribute consistently.<br><br>🤝 I’m looking for help with<br>Code reviews, mentorship, and exposure to production-level workflows and team collaboration.<br><br>🌱 I’m currently learning<br>Core full-stack fundamentals, clean code practices, version control workflows, APIs, and basic system design.<br><br>💬 Ask me about<br>JavaScript basics, frontend & backend fundamentals, debugging, and learning paths for junior developers.<br><br>⚡ Fun fact<br>I learn fast, take feedback seriously, and prefer shipping working features over over-engineering.
 
-# EGH Samuel Mwangi
-### **Software Engineer & Digital Strategist**
 
-*Building practical technology for Kenya's informal and infrastructure sectors.*
-
+## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Egh%20Samuel%20Mwangi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mwangisamue_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Egh%20%28Mwangi%29%20Samuel) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Samuel%20Mwangi%20TTK) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mwangisamuel_) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mwangisamuel_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mwangisamuel.dev@gmail.com) 
 
----
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SamuelMwangi-m3&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SamuelMwangi-m3&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelMwangi-m3&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# 🚀 About Me
-
-*   **💻 Currently working on:** Full-stack projects, improving existing applications, optimizing performance, and building features under real-world constraints.
-*   **👯 Looking to collaborate on:** Open-source projects and initiatives where I can learn from experienced developers, follow best practices, and contribute consistently.
-*   **🤝 Looking for help with:** Advanced code reviews, mentorship, and exposure to high-utility production-level workflows.
-*   **🌱 Currently learning:** Deep dives into software architecture, advanced system design, and perfecting offline-first mobile workflows.
-*   **💬 Ask me about:** Flutter mobile development, TypeScript, backend API integrations, and practical software engineering.
-*   **⚡ Fun fact:** I learn incredibly fast, take feedback seriously, and prefer shipping working, reliable features over over-engineering.
-
----
-
-# 💻 Tech Stack
-
-### Languages & Frameworks
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-### Databases, Web3 & Cloud Backend
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-
----
-
-# 📊 GitHub Activity & Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SamuelMwangi-m3&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelMwangi-m3&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="48%" />
-
-<br/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=SamuelMwangi-m3&theme=dark&hide_border=false" alt="Streak Stats" width="98%" />
-
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SamuelMwangi-m3&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+## 🥷 LeetCode Stats
+*(Note: Replace `SamuelMwangi-m3` in the links below with your specific LeetCode username if it differs from your GitHub handle)*
+
+![](https://leetcode-stats.vercel.app/api?username=SamuelMwangi-m3&theme=Dark)
+![](https://leetcode-badge.vercel.app/?username=SamuelMwangi-m3)
+
+### Quote of the Day
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SamuelMwangi-m3&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-</div>
-
 ---
-
-### 💡 Quote of the Day
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-<div align="center">
-
-*Visitor Count*  
 [![](https://visitcount.itsvg.in/api?id=SamuelMwangi-m3&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+---
+
+<div align="center">
+
+### MD, Fyna
+
+**EGH Samuel Mwangi** &nbsp;|&nbsp; **Software Engineer, Digital Strategist**
+
+
+
+*Building practical technology for Kenya's informal and infrastructure sectors.*
 
 **Constantly growing.** 🌱
 
