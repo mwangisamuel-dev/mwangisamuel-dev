@@ -17,7 +17,7 @@ I’m currently working on<br>Junior-level full-stack projects, improving existi
 ![](https://github-profile-trophy.vercel.app/?username=mwangisamuel-dev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🥷 LeetCode Stats
-![](https://leetcard.jacoblin.cool/mwangisamuel-dev?theme=dark&font=Ubuntu&ext=dashboard)
+![](https://leetcode-stats-seven.vercel.app/api?username=mwangisamuel-dev&theme=dark)
 
 ### Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
