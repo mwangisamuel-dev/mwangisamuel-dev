@@ -38,8 +38,9 @@ I’m currently working on<br>Junior-level full-stack projects, improving existi
 *Building practical technology for Kenya's informal and infrastructure sectors.*
 
 </div>
-### 📊 GitHub Activity Heatmap
+### 📊 Coding Activity Heatmap
 
 <p align="center">
-  <img src="https://gits.me" alt="GitHub Activity Heatmap" width="100%" />
+  <!-- IMPORTANT: Replace YOUR_GITHUB_USERNAME with your real GitHub username -->
+  <img src="https://herokuapp.com" alt="GitHub Activity Stats" width="100%" />
 </p>
