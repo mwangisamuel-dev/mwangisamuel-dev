@@ -18,7 +18,7 @@ I’m currently working on<br>Junior-level full-stack projects, improving existi
 
 ## 🥷 LeetCode Stats
 <!-- Replace the values highlighted below -->
-[!(https://vercel.app)](https://github.com/mwangisamuel-dev)
+[![LeetCode Stats](https://jacoblin.cool)](https://github.com)
 
 ### Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
