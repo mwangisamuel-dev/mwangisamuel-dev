@@ -19,7 +19,7 @@ I’m currently working on<br>Junior-level full-stack projects, improving existi
 ## 🥷 LeetCode Stats
 <!-- Replace the values highlighted below -->
 <p align="center">
-  <img src="https://mwangisamuel-dev](https://leetcode.com/u/mwangisamuel-dev" alt="LeetCode Tracker" />
+  <img src="https://leetcode.com/u/mwangisamuel-dev" alt="LeetCode Tracker" />
 </p>
 
 ### Quote of the Day
