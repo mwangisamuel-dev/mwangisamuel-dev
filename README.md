@@ -1,87 +1,40 @@
-<h1 align="center">Hi there 👋, I'm Egh Samuel</h1>
-
-<p align="center">
-  <a href="https://gitcon.infornics.com/user/mwangisamuel-dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58AAB0&center=true&vCenter=true&width=435&lines=Passionate%20Full%20Stack%20Developer%20%F0%9F%9A%80;Open%20Source%20Contributor%20%26%20Builder%20%F0%9F%92%BB;Exploring%20Modern%20Systems%20%26%20AI%20%E2%9A%A1" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://gitcon.infornics.com/user/mwangisamuel-dev">
-    <img src="https://img.shields.io/badge/Gitcon-Profile_&_Stats-58aab0?style=for-the-badge&logo=github&logoColor=white" alt="Gitcon Profile" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=mwangisamuel-dev&label=Profile%20Views&color=58aab0&style=for-the-badge" alt="Profile Views" />
-</p>
-
-### 💫 About Me
-
-Crafting performant web experiences, open-source software, and developer tools.
-
-- 🔭 I’m currently working on [**test**](https://github.com/mwangisamuel-dev/test)
-- 🌱 I’m currently learning **Distributed systems, performance engineering, and AI pipelines**
-- 👯 I’m looking to collaborate on **Exciting open-source initiatives and developer tooling**
-- 💬 Ask me about **Dart, C++, CMake**
-- 📫 How to reach me: **twitter.com/mwangisamuel-dev**
-- ⚡ Fun fact: I turn coffee and tea into clean code ☕
-
-### 🛠️ Languages & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-</p>
-
-### 📊 GitHub Analytics & Rhythm
-
-<p align="center">
-  <a href="https://gitcon.infornics.com/user/mwangisamuel-dev">
-    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=mwangisamuel-dev&show_icons=true&theme=dark&hide_border=false" alt="mwangisamuel-dev's GitHub Stats" />
-  </a>
-  <a href="https://gitcon.infornics.com/user/mwangisamuel-dev">
-    <img height="180em" src="https://streak-stats.demolab.com?user=mwangisamuel-dev&theme=dark&hide_border=false" alt="mwangisamuel-dev's GitHub Streak" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://gitcon.infornics.com/user/mwangisamuel-dev">
-    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=mwangisamuel-dev&layout=compact&theme=dark&hide_border=false" alt="Top Languages" />
-  </a>
-</p>
-
-### 🚀 Featured Projects
-
-- [**test**](https://github.com/mwangisamuel-dev/test) `HTML` 
-  Open source project
-- [**vira**](https://github.com/mwangisamuel-dev/vira) `Dart` 
-  Open source project
-- [**Jua-Kali-Hub**](https://github.com/mwangisamuel-dev/Jua-Kali-Hub) `Dart` 
-  Open source project
-- [**surge**](https://github.com/mwangisamuel-dev/surge) `Dart` 
-  Open source project
-- [**mwangisamuel-dev**](https://github.com/mwangisamuel-dev/mwangisamuel-dev)  
-  Open source project
-- [**python-p1**](https://github.com/mwangisamuel-dev/python-p1)  
-  Open source project
-- [**expert-octo-chainsaw**](https://github.com/mwangisamuel-dev/expert-octo-chainsaw)  
-  Open source project
+# About Me:
+I’m currently working on<br>Junior-level full-stack projects, improving existing applications, fixing bugs, and building features under real-world constraints.<br><br>👯 I’m looking to collaborate on<br>Entry-level and open-source projects where I can learn from experienced developers, follow best practices, and contribute consistently.<br><br>🤝 I’m looking for help with<br>Code reviews, mentorship, and exposure to production-level workflows and team collaboration.<br><br>🌱 I’m currently learning<br>Core full-stack fundamentals, clean code practices, version control workflows, APIs, and basic system design.<br><br>💬 Ask me about<br>JavaScript basics, frontend & backend fundamentals, debugging, and learning paths for junior developers.<br><br>⚡ Fun fact<br>I learn fast, take feedback seriously, and prefer shipping working features over over-engineering.
 
 
-### 🌐 Connect With Me
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mwangisamuel.dev@gmail.com) 
 
-<p>
-  <a href="https://github.com/mwangisamuel-dev" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/mwangisamuel-dev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mwangisamuel-dev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### Quote of the Day
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mwangisamuel-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=mwangisamuel-dev&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 ---
 
-<p align="center">
-  <sub>⚡ Powered by <a href="https://gitcon.infornics.com"><b>Gitcon</b></a> — High-Performance GitHub Rhythm & Activity Dashboard</sub>
-</p>
+<div align="center">
+
+### MD, Fyna
+
+**EGH Samuel Mwangi** &nbsp;|&nbsp; **Software Engineer, Digital Strategist**
+
+
+
+*Building practical technology for Kenya's informal and infrastructure sectors.*
+
+**Constantly growing.** 🌱
+
+</div>
+
+
